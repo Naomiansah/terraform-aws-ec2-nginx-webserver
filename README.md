@@ -1,4 +1,4 @@
-# Terraform AWS EC2 Nginx Web Server
+# Deploying a Web Server on AWS EC2 Using Terraform (Nginx Setup)
 
 This project provisions a simple web server on AWS using Terraform. It launches an EC2 instance, configures a security group for SSH and HTTP access, registers an SSH key pair, and uses a user data script to install and start Nginx automatically.
 
